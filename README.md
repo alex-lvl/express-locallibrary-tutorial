@@ -19,6 +19,8 @@ This project was created with guidance from the Mozilla Development Network expr
 - Form Handling
 - Form Validation and Sanitization (Express Validator)
 - CRUD
+- Heroku
+- Middleware
 
 ## References
 
